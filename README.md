@@ -9,16 +9,16 @@
 </div>
 
 <div align="center">
-  <a href="https://www.facebook.com/your_facebook">
+  <a href="https://www.facebook.com/nttu1502">
     <img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=4267B2" alt="Facebook"/>
   </a>
-  <a href="https://github.com/your_github">
+  <a href="https://github.com/hasoftware">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
   </a>
   <a href="https://t.me/HoangAnhDev">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4" alt="Telegram"/>
   </a>
-  <a href="mailto:your_email@example.com">
+  <a href="mailto:admin@hasoftware.vn">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
   </a>
 </div>
