@@ -59,7 +59,7 @@
     <tr>
       <td align="center" width="30%">
         <a href="#">
-          <img src="https://img.icons8.com/fluency/80/000000/certificate.png" width="80" height="80"/>
+          <img src="https://ucerts.io/public/icons/navbar_icon.png" width="80" height="80"/>
           <br />
           <h3>UCerts.io</h3>
           <p>iPhone cloning solution<br>(Apple Certificate)</p>
@@ -68,7 +68,7 @@
       </td>
       <td align="center" width="30%">
         <a href="#">
-          <img src="https://img.icons8.com/fluency/80/000000/facebook-new.png" width="80" height="80"/>
+          <img src="https://muafb88.com/assets/storage/images/logo_light_VBL.png" width="80" height="80"/>
           <br />
           <h3>Muafb88.Com</h3>
           <p>Social media resources</p>
@@ -216,13 +216,13 @@
 
 <div align="center">
   <a href="https://github.com/your_github">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=your_github&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E8FF&icon_color=00E8FF"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_github&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E8FF"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hasoftware&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E8FF&icon_color=00E8FF"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasoftware&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E8FF"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your_github&theme=radical&hide_border=true&background=0D1117&stroke=00E8FF&ring=00E8FF&fire=00E8FF&currStreakLabel=00E8FF" alt="GitHub Streak Stats" height="150em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasoftware&theme=radical&hide_border=true&background=0D1117&stroke=00E8FF&ring=00E8FF&fire=00E8FF&currStreakLabel=00E8FF" alt="GitHub Streak Stats" height="150em" />
 </div>
 
 <div align="center">
