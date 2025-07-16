@@ -1,4 +1,4 @@
-<div align="center">
+<cdiv align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Trinh%20Hoang%20Anh&fontSize=70&fontColor=ffffff&stroke=00E8FF&animation=twinkling&fontAlignY=35&desc=Developer%20|%20Entrepreneur%20|%20Founder&descAlignY=60&descSize=25" />
 </div>
 
@@ -33,7 +33,7 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> About Me
 </h2>
 
-<img align="right" height="220px" width="350px" alt="GIF" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+<img align="right" height="220px" width="350px" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDVxejNzN3M3amxrNDg4Ym9pZW1tbmpnc3E3ZXQ0b2FvcGR2eDZqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hi2kPofVMW70k/giphy.gif" />
 
 <p align="left">
   <b>🧑‍💼 Full Name:</b> Trinh Hoang Anh<br>
