@@ -36,14 +36,14 @@
 <img align="right" height="220px" width="350px" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDVxejNzN3M3amxrNDg4Ym9pZW1tbmpnc3E3ZXQ0b2FvcGR2eDZqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hi2kPofVMW70k/giphy.gif" />
 
 <p align="left">
-  <b>🧑‍💼 Full Name:</b> Trinh Hoang Anh<br>
-  <b>🌟 Nickname:</b> Devlin<br>
-  <b>🎂 Birth Year:</b> 2000<br>
-  <b>💻 Coding Experience:</b> Copy - Paste Expert 😄<br>
-  <b>🚀 Interests:</b> Service development, building tech solutions<br>
-  <b>🔥 Motto:</b> <i>"Nothing is impossible"</i><br>
-  <b>🌐 Goal:</b> Building breakthrough technology solutions<br>
-  <b>🎯 Direction:</b> Expanding global service ecosystem
+  <b>Full Name:</b> Trinh Hoang Anh<br>
+  <b>Nickname:</b> Devlin<br>
+  <b>Birth Year:</b> 2000<br>
+  <b>Coding Experience:</b> Copy - Paste Expert 😄<br>
+  <b>Interests:</b> Service development, building tech solutions<br>
+  <b>Motto:</b> <i>"Nothing is impossible"</i><br>
+  <b>Goal:</b> Building breakthrough technology solutions<br>
+  <b>Direction:</b> Expanding global service ecosystem
 </p>
 
 <div align="center">
