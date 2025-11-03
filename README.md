@@ -265,7 +265,7 @@
 </div>
 
 <div align="center">
-  <p align="left"> Github profile views:  </p> <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasoftware" alt="hasoftware" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasoftware" alt="hasoftware" /> </p>
   <h3>⭐ Thanks for visiting my GitHub profile! ⭐</h3>
   <p>Feel free to contact me if you need assistance or want to collaborate!</p>
 </div>
