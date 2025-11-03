@@ -59,7 +59,7 @@
     <tr>
       <td align="center" width="30%">
         <a href="#">
-          <img src="https://ucerts.io/public/icons/navbar_icon.png" width="80" height="80"/>
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwGXuMh7nVLA5NLF0PnWa2E--HQzfGCk94Yg&s" width="80" height="80"/>
           <br />
           <h3>UCerts.io</h3>
           <p>iPhone cloning solution<br>(Apple Certificate)</p>
@@ -215,7 +215,7 @@
 </h2>
 
 <div align="center">
-  <a href="https://github.com/your_github">
+  <a href="https://github.com/hasoftware">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hasoftware&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E8FF&icon_color=00E8FF"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasoftware&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E8FF"/>
   </a>
@@ -265,6 +265,7 @@
 </div>
 
 <div align="center">
+  <p align="left"> Github profile views:  </p> <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasoftware" alt="hasoftware" /> </p>
   <h3>⭐ Thanks for visiting my GitHub profile! ⭐</h3>
   <p>Feel free to contact me if you need assistance or want to collaborate!</p>
 </div>
