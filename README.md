@@ -213,17 +213,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/hasoftware">
-    <img 
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=hasoftware&show_icons=true&hide_border=true&bg_color=ffffff&title_color=007acc&icon_color=007acc&text_color=333333"
-    />
-    <img 
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasoftware&layout=compact&langs_count=6&hide_border=true&bg_color=ffffff&title_color=007acc&text_color=333333"
-    />
-  </a>
+  <img height="150em" src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=hasoftware&show_icons=true&hide_border=true&bg_color=ffffff&text_color=333333&title_color=0066cc&icon_color=0066cc" />
+  <img height="150em" src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=hasoftware&layout=compact&hide_border=true&bg_color=ffffff&text_color=333333&title_color=0066cc" />
 </p>
+
 
 <div align="center">
   <a href="https://www.facebook.com/nttu1502">
