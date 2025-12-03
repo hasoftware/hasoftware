@@ -210,12 +210,16 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
 </div>
 
-## 📊 GitHub Stats
+## 📈 GitHub Summary Cards
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=hasoftware&show_icons=true&hide_border=true&bg_color=ffffff&text_color=333333&title_color=0066cc&icon_color=0066cc" />
-  <img height="150em" src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=hasoftware&layout=compact&hide_border=true&bg_color=ffffff&text_color=333333&title_color=0066cc" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasoftware&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hasoftware&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasoftware&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hasoftware&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hasoftware&theme=default" />
 </p>
+
 
 
 <div align="center">
