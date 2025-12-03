@@ -210,28 +210,20 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
 </div>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="40"> GitHub Stats
-</h2>
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/hasoftware">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hasoftware&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E8FF&icon_color=00E8FF"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasoftware&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E8FF"/>
+    <img 
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api?username=hasoftware&show_icons=true&hide_border=true&bg_color=ffffff&title_color=007acc&icon_color=007acc&text_color=333333"
+    />
+    <img 
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasoftware&layout=compact&langs_count=6&hide_border=true&bg_color=ffffff&title_color=007acc&text_color=333333"
+    />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasoftware&theme=radical&hide_border=true&background=0D1117&stroke=00E8FF&ring=00E8FF&fire=00E8FF&currStreakLabel=00E8FF" alt="GitHub Streak Stats" height="150em" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
-</div>
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Contact Me
-</h2>
+</p>
 
 <div align="center">
   <a href="https://www.facebook.com/nttu1502">
