@@ -68,9 +68,9 @@
       </td>
       <td align="center" width="30%">
         <a href="#">
-          <img src="https://muafb88.com/assets/storage/images/logo_light_VBL.png" width="80" height="80"/>
+          <img src="https://umulti.com/assets/storage/images/logo_dark_4PQ.png" width="80" height="80"/>
           <br />
-          <h3>Muafb88.Com</h3>
+          <h3>Umulti.com</h3>
           <p>Social media resources</p>
           <p><i>Founder</i></p>
         </a>
