@@ -221,22 +221,6 @@
 </p>
 
 
-
-<div align="center">
-  <a href="https://www.facebook.com/nttu1502">
-    <img src="https://img.icons8.com/bubbles/70/000000/facebook-new.png" width="70" height="70" alt="Facebook"/>
-  </a>
-  <a href="https://t.me/HoangAnhDev">
-    <img src="https://img.icons8.com/bubbles/70/000000/telegram-app.png" width="70" height="70" alt="Telegram"/>
-  </a>
-  <a href="mailto:admin@hasoftware.vn">
-    <img src="https://img.icons8.com/bubbles/70/000000/apple-mail.png" width="70" height="70" alt="Email"/>
-  </a>
-  <a href="https://github.com/hasoftware">
-    <img src="https://img.icons8.com/bubbles/70/000000/github.png" width="70" height="70" alt="GitHub"/>
-  </a>
-</div>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
 </div>
