@@ -37,7 +37,7 @@
 
 <p align="left">
   <b>Full Name:</b> Trinh Hoang Anh<br>
-  <b>Nickname:</b> Devlin<br>
+  <b>Nickname:</b> Viktor<br>
   <b>Birth Year:</b> 2000<br>
   <b>Coding Experience:</b> Copy - Paste Expert 😄<br>
   <b>Interests:</b> Service development, building tech solutions<br>
