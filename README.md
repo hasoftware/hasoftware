@@ -50,11 +50,20 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
 </div>
 
-</p>
 ### &nbsp; Github Summary
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasoftware&show_icons=true&locale=en" alt="hasoftware" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasoftware&" alt="hasoftware" /></p>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=hasoftware&show_icons=true&locale=en&theme=dark" 
+    alt="hasoftware" 
+    height="150"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=hasoftware&theme=dark" 
+    alt="hasoftware" 
+    height="150"
+  />
+</p>
 
 ### &nbsp;Tech Stack
 
@@ -83,10 +92,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
 </div>
 
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
-</div>
 
 <div align="center">
   <picture>
