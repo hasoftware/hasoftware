@@ -54,90 +54,28 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
 </div>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40"> Technologies & Tools
-</h2>
+### &nbsp;Tech Stack
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="80">
-        <a href="#">
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
-          <br>JavaScript
-        </a>
-      </td>
-      <td align="center" width="80">
-        <a href="#">
-          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
-          <br>Python
-        </a>
-      </td>
-      <td align="center" width="80">
-        <a href="#">
-          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
-          <br>React
-        </a>
-      </td>
-      <td align="center" width="80">
-        <a href="#">
-          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
-          <br>TypeScript
-        </a>
-      </td>
-      <td align="center" width="80">
-        <a href="#">
-          <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />
-          <br>AWS
-        </a>
-      </td>
-      <td align="center" width="80">
-        <a href="#">
-          <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
-          <br>GitHub
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="80">
-        <a href="#">
-          <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="50" height="50" />
-          <br>Nginx
-        </a>
-      </td>
-      <td align="center" width="80">
-        <a href="#">
-          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
-          <br>MySQL
-        </a>
-      </td>
-      <td align="center" width="80">
-        <a href="#">
-          <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="50" height="50" />
-          <br>REST API
-        </a>
-      </td>
-      <td align="center" width="80">
-        <a href="#">
-          <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
-          <br>Docker
-        </a>
-      </td>
-      <td align="center" width="80">
-        <a href="#">
-          <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="50" height="50" />
-          <br>GraphQL
-        </a>
-      </td>
-      <td align="center" width="80">
-        <a href="#">
-          <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
-          <br>Java
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)
+![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
