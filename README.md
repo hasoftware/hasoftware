@@ -23,10 +23,10 @@
 
 <br>
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> About Me
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="40"> About Me
 </h2>
 
 <img align="right" height="220px" width="350px" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDVxejNzN3M3amxrNDg4Ym9pZW1tbmpnc3E3ZXQ0b2FvcGR2eDZqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hi2kPofVMW70k/giphy.gif" />
