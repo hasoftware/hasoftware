@@ -1,6 +1,4 @@
-<cdiv align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Trinh%20Hoang%20Anh&fontSize=70&fontColor=ffffff&stroke=00E8FF&animation=twinkling&fontAlignY=35&desc=Developer%20|%20Entrepreneur%20|%20Founder&descAlignY=60&descSize=25" />
-</div>
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
