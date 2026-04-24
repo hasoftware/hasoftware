@@ -50,9 +50,11 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
-</div>
+</p>
+### &nbsp; Github Summary
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasoftware&show_icons=true&locale=en" alt="hasoftware" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasoftware&" alt="hasoftware" /></p>
 
 ### &nbsp;Tech Stack
 
@@ -80,16 +82,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
 </div>
-
-## 📈 GitHub Summary Cards
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasoftware&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hasoftware&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasoftware&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hasoftware&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hasoftware&theme=default" />
-</p>
 
 
 <div align="center">
