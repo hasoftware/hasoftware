@@ -62,6 +62,8 @@
   />
 </p>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hasoftware&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=hasoftware's%20Activity%20Graph" />
+
 ### &nbsp;Tech Stack
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift&logoColor=F05138)&nbsp;
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust&logoColor=FFFFFF)&nbsp;
