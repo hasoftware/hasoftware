@@ -51,7 +51,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=hasoftware&show_icons=true&locale=en&theme=dark" 
+    src="https://github-readme-stats-fast.vercel.app/api?username=hasoftware&show_icons=true&locale=en&theme=dark" 
     alt="hasoftware" 
     height="150"
   />
