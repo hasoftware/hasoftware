@@ -63,7 +63,8 @@
 </p>
 
 ### &nbsp;Tech Stack
-
+![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift&logoColor=F05138)&nbsp;
+![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust&logoColor=FFFFFF)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
